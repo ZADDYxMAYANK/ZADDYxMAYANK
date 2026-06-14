@@ -1,0 +1,6 @@
+{
+  "name": "GitHub README Generator",
+  "description": "An interactive builder and real-time live previewer for technical GitHub Profile READMEs, preloaded with professional MERN + Python details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
